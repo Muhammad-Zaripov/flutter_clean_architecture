@@ -1,5 +1,4 @@
-# Changelog
+## 0.1.0
 
-## [0.1.0] - 2025-07-07
-- Initial release of Flutter Clean Architecture template
-- Added base folder structure and example
+- Initial release of `clean_architecture_flutter`.
+- Includes reusable folder structure for scalable Flutter projects.

@@ -1,7 +1,9 @@
-name: flutter_clean_architecture
-description: A complete Flutter Clean Architecture template with ready-to-use folder structure and best practices.
-homepage: https://github.com/Muhammad-Zaripov/flutter_clean_architecture
+name: clean_architecture_flutter
+description: A reusable and scalable clean architecture template for Flutter projects.
 version: 0.1.0
+homepage: https://github.com/Muhammad-Zaripov/flutter_clean_architecture
+repository: https://github.com/Muhammad-Zaripov/flutter_clean_architecture
+issue_tracker: https://github.com/Muhammad-Zaripov/flutter_clean_architecture/issues
 
 environment:
   sdk: ^3.8.1
@@ -13,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 flutter:
   uses-material-design: true
@@ -21,5 +23,3 @@ flutter:
     - assets/images/
     - assets/svg/
     - assets/fonts/
-    
-
