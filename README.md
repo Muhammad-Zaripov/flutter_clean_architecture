@@ -20,7 +20,7 @@ A fully structured, scalable, and feature-based Flutter Clean Architecture templ
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter_clean_architecture.git 
+git https://github.com/Muhammad-Zaripov/flutter_clean_architecture.git
 ```
 2. Run Flutter packages:
 
