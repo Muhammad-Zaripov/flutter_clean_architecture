@@ -1,6 +1,6 @@
 name: flutter_clean_architecture
-description: "A new Flutter project."
-publish_to: 'none'
+description: A complete Flutter Clean Architecture template with ready-to-use folder structure and best practices.
+homepage: https://github.com/Muhammad-Zaripov/flutter_clean_architecture
 version: 0.1.0
 
 environment:
